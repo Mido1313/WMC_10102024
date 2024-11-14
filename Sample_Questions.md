@@ -10,7 +10,15 @@ Hyperlink verbindungen, kein zentraler Punkt auf den sich alles stützt sondern v
 ### 2. Resourcen addressiert im Web:
 Mit der URL, die vom DNS server in die IP-Adresse umgewandelt wird.
 ### 3. Komponenten der URL:
-Schema (http(s), ftp, mailto, …); Domäne (Name der Webseite z.b. ORF.at); Pfad (/Profile/Settings/…); Abfrage/Query (?key1=value1; key2=value2); Fragment zur direkten Verweisung auf einen Teil der Webseite, ohne dass die gesamte Seite neu geladen werden muss (#Fragment)
+- Schema (http(s), ftp, mailto, …); 
+- Username.Password
+- Domäne/Host (Name der Webseite z.b. ORF.at); 
+- Port (8080) -> optional: wenn es nicht der Standardport ist wird es angegeben
+- Pfad (/Profile/Settings/…); 
+- Abfrage/Query (?key1=value1; key2=value2); 
+- Fragment (#fragment2) -> zur direkten Verweisung auf einen Teil der Webseite, ohne dass die gesamte Seite neu geladen werden muss 
+
+scheme://username:password@host:port/path?query#fragment
 
 ---
 

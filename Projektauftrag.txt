@@ -1,0 +1,41 @@
+Ziel: funktionaler Webshop
+
+1. Sem
+
+Webshop-Recherche (alle Mitglieder) - 28-31 treffen und besprechen
+Ausgearbeitet mit Bildern, präsentationsfähig, Pro- und Kontra, Verbesserungsansätze
+
+
+* * *  
+Funktionalitäten festlegen
+Struktur definieren
+Design festlegen
+
+Designansätze ausführen und vergleichen
+
+
+
+
+* * * Brainstorming * * *
+Homepage:
+Produktauswahl Leiste / Übersicht
+-> Produkte mit Details und Fotos
+Produktfotos / (Neuigkeiten/Angebote)
+Impressum / Kontakt
+
+Menüauswahl:
+ - Account
+ - Einstellungen
+ - Einkaufswagen
+ 
+ ------------------------
+ 
+ Nichtziel: 
+ 
+ Mehrere Sprachen
+ Javascript
+ 
+ 
+ 
+
+
