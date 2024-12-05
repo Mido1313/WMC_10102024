@@ -1,1 +1,14 @@
-*.exe
+Schlüsselwort
+
+SELECT
+*
+FROM
+WHERE
+AS
+AND
+CROSSJOIN
+JOIN ON
+IS NULL
+
+--
+/* */
